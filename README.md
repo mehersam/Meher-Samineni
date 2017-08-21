@@ -1,4 +1,5 @@
 <font size="9"><b>About Me</b></font>
+
 My research consists of compliance testing for standard enabled software applications. In particular, my work is concerned with creating a framework for testing compliance of applications supporting the Synthetic Biology Open Language (SBOL) Standard.
 
 <font size="9"><b>Publications</b></font>
